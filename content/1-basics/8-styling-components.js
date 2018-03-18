@@ -287,7 +287,7 @@ const PostLink = ({ post }) => (
 )
 ~~~
 
-> Otherwise, you could use [global selectors](https://github.com/zeit/styled-jsx#global-selectors).
+> Otherwise, you could use [global selectors](https://github.com/zeit/styled-jsx#one-off-global-selectors).
       `
     },
 
